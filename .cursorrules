@@ -1,0 +1,8 @@
+# Cursor Rules
+
+All AI agent instructions live in AGENTS.md at the project root.
+
+Read AGENTS.md first before any work. This file exists only so Cursor picks up the
+project conventions — it intentionally duplicates nothing.
+
+→ See AGENTS.md
